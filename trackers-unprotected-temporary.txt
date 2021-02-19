@@ -1,3 +1,5 @@
+play.geforcenow.com
+stadia.google.com
 calbanktrust.com
 fidelity.com
 vanguard.com
@@ -21,7 +23,6 @@ santander.com
 santander.co.uk
 usbank.com
 aternos.org
-theguardian.com
 nfl.com
 delivery-club.ru
 netteller.com
