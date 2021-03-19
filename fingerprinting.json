@@ -1,7 +1,9 @@
 {
     "canvas": {
         "enabled": true,
-        "sites": [],
+        "sites": [
+            "warzone.com"
+        ],
         "scripts": []
     }
 }
