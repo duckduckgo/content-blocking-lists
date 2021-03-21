@@ -2,7 +2,8 @@
     "canvas": {
         "enabled": true,
         "sites": [
-            "warzone.com"
+            "warzone.com",
+            "skribbl.io"
         ],
         "scripts": []
     }
