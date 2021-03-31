@@ -3,7 +3,25 @@
         "enabled": true,
         "sites": [
             "warzone.com",
-            "skribbl.io"
+            "skribbl.io",
+            "www.kroger.com",
+            "www.bakersplus.com",
+            "www.citymarket.com",
+            "www.dillons.com",
+            "www.food4less.com",
+            "www.foodsco.net",
+            "www.fredmeyer.com",
+            "www.frysfood.com",
+            "www.gerbes.com",
+            "www.jaycfoods.com",
+            "www.kingsoopers.com",
+            "www.marianos.com",
+            "www.metromarket.net",
+            "www.pay-less.com",
+            "www.picknsave.com",
+            "www.qfc.com",
+            "www.ralphs.com",
+            "www.smithsfoodanddrug.com"
         ],
         "scripts": []
     },
