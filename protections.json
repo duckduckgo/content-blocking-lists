@@ -80,5 +80,13 @@
         "sites": [
         ],
         "scripts": []
+    },
+    "autofill": {
+        "enabled": true,
+        "sites": [
+            "asana.com",
+            "fastmail.com"
+        ],
+        "scripts": []
     }
 }
