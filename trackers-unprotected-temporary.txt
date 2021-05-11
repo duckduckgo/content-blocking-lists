@@ -26,4 +26,4 @@ schwab.com
 www.x-kom.pl
 delta.com
 chipotle.com
-www.aspiration.com
+aspiration.com
