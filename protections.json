@@ -60,6 +60,8 @@
     "hardware": {
         "enabled": true,
         "sites": [
+            "play.geforcenow.com",
+            "stadia.google.com"
         ],
         "scripts": []
     },
