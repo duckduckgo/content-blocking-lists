@@ -28,3 +28,4 @@ delta.com
 chipotle.com
 www.aspiration.com
 sbs.com.au
+reuters.com
