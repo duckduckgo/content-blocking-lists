@@ -29,7 +29,7 @@
         "scripts": []
     },
     "audio": {
-        "enabled": false,
+        "enabled": true,
         "sites": [
         ],
         "scripts": []
