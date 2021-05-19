@@ -1,6 +1,7 @@
 {
     "canvas": {
         "enabled": true,
+        "aboutBlank": true,
         "sites": [
             "warzone.com",
             "skribbl.io",
@@ -30,36 +31,42 @@
     },
     "audio": {
         "enabled": true,
+        "aboutBlank": true,
         "sites": [
         ],
         "scripts": []
     },
     "temporary-storage": {
         "enabled": true,
+        "aboutBlank": true,
         "sites": [
         ],
         "scripts": []
     },
     "referrer": {
         "enabled": true,
+        "aboutBlank": true,
         "sites": [
         ],
         "scripts": []
     },
     "battery": {
         "enabled": true,
+        "aboutBlank": true,
         "sites": [
         ],
         "scripts": []
     },
     "screen-size": {
         "enabled": true,
+        "aboutBlank": true,
         "sites": [
         ],
         "scripts": []
     },
     "hardware": {
         "enabled": true,
+        "aboutBlank": true,
         "sites": [
             "play.geforcenow.com",
             "stadia.google.com"
@@ -68,24 +75,28 @@
     },
     "do-not-track": {
         "enabled": true,
+        "aboutBlank": true,
         "sites": [
         ],
         "scripts": []
     },
     "floc": {
         "enabled": true,
+        "aboutBlank": true,
         "sites": [
         ],
         "scripts": []
     },
     "gpc": {
         "enabled": true,
+        "aboutBlank": true,
         "sites": [
         ],
         "scripts": []
     },
     "autofill": {
         "enabled": true,
+        "aboutBlank": true,
         "sites": [
             "asana.com",
             "fastmail.com"
