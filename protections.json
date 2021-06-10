@@ -29,6 +29,13 @@
         ],
         "scripts": []
     },
+    "cookie": {
+        "enabled": true,
+        "sites": [
+            "hangouts.google.com"
+        ],
+        "scripts": []
+    },
     "audio": {
         "enabled": true,
         "sites": [
