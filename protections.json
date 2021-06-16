@@ -30,7 +30,8 @@
     "cookie": {
         "enabled": true,
         "sites": [
-            "hangouts.google.com"
+            "hangouts.google.com",
+            "docs.google.com"
         ],
         "scripts": []
     },
