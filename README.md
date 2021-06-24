@@ -8,7 +8,7 @@ To add a manual unprotected entry update the top section of trackers-unprotected
 
 **Whitelist is deprecated**
 
-Please note the whitelist file has been deprecated, it will be removed in March 2021.
+Please note the whitelist file has been deprecated and is only being used by the Safari extension, it will be removed soon after that.
 
 **Adding new broken canvas websites**
 
