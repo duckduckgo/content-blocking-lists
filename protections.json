@@ -2,6 +2,8 @@
     "canvas": {
         "enabled": true,
         "sites": [
+            "www.delta.com",
+            "www.johnlewis.com",
             "warzone.com",
             "skribbl.io",
             "kroger.com",
