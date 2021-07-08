@@ -38,7 +38,7 @@
         "scripts": []
     },
     "audio": {
-        "enabled": true,
+        "enabled": false,
         "sites": [
             "youtube.com",
             "meet.google.com"
