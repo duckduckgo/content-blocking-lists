@@ -1,5 +1,8 @@
 # Content Blocking Lists
 
+This repo will soon be deprecated and superseded by https://github.com/duckduckgo/privacy-configuration 
+
+
 These files are served: https://duckduckgo.com/contentblocking/...
 
 **Adding unprotected entries**
